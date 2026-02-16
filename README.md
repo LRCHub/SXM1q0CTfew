@@ -1,0 +1,50 @@
+# NewJeans – Get Up
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:01.06] Get up on your feet
+[00:24.80] Before the night is through for you want miss
+[00:28.19] Get down to the beat
+[00:29.45] Pump it, stomp it, jam, trip on this
+[00:47.45] 
+[00:31.48] Get the party started
+[00:32.99] Get it on, get a move on, kids
+[00:34.95] Rock to the beat
+[00:36.74] Pump it, stomp it, jam, trip on this
+[00:54.74] 
+[00:38.94] Get up, get up, get busy, do it
+[00:40.84] Get up and move that body
+[00:42.94] Get up, people now, get down to it before the night is over
+[00:46.78] Get up, get up, get busy, do it
+[00:48.84] I wanna see you party
+[00:50.61] Get up people now, get down to it before the night is over
+[01:19.61] 
+[00:54.47] Get down
+[00:55.02] Get up
+[00:56.12] Get down
+[00:57.64] Get up
+[01:00.64] 
+[00:58.16] One, two, I'll party you
+[01:02.47] Three, four, so get your butt on the floor
+[01:04.19] Five, six, know you dig the mix
+[01:05.48] Seven, eight, let it shake
+[01:18.48] 
+[01:07.32] Get down
+[01:07.62] We got to take a stand
+[01:10.08] Now that we're in demand
+[01:10.68] Party all night, cut the fight
+[01:25.68] 
+[01:11.40] Do what's right and you just might
+[01:12.10] Win a battle you never fought
+[01:12.86] Just by checkin' this record you bought
+[01:14.03] Over and on and on again
+[01:16.26] Get with it and do that thing
+[01:30.76] 
+[01:18.12] Get up, get up, get busy, do it
+[01:19.35] Get up and move that body
+[01:20.05] Get up people now, get down to it before the night is over
+[01:20.68] Get up, get up, get busy do it
+[01:21.88] I wanna see you party
+[01:23.06] Get up people now, get down to it before the night is over
+```
